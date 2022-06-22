@@ -4,7 +4,7 @@ WiFiServer server1(80);
 
 
 //void val()
-//{
+//{   
 //  server.on("/", handleRoot);
 //  server.begin();
 //  Serial.println("HTTP server started");
